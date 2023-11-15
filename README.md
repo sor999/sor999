@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 공개SW 개발자 대회 2023 (2023.07 ~ 2023.09)
 - GDSC(Google Developer Student Clubs) (2023.08 ~ )
 - UNITHON 10th (2023.09)
-- 교내 Idea Contest 1th (2023.11)
+- 가톨릭대 Idea Contest 1th (2023.11)
 
 
 ## Stats
