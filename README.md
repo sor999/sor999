@@ -1,7 +1,9 @@
 
 
 ### Hi there, I'm Hyunje Park 👋
-
+- I develop servers using Spring
+- I am a developer who has the tenacity to never give up and is not afraid of challenges.
+- I know the importance of communication, I want to become a developer who shares knowledge.
 <!--
 **sor999/sor999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
