@@ -14,10 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### stack
+### Stack
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 
+### Activity
+- 공개SW 개발자 대회 2023 (2023.07 ~ 2023.08)
 
-### stats
+- GDSC(Google Developer Student Clubs) (2023.08 ~ )
+
+- UNITHON 10TH (2023.09)
+
+- 교내 Idea Contest 1TH (2023.11)
+
+
+### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sor999&show_icons=true&theme=radical)
