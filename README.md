@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## Activity
 
 - 공개SW 개발자 대회 2023 (2023.07 ~ 2023.09)
-- GDSC(Google Developer Student Clubs) (2023.08 ~ )
+- GDSC(Google Developer Student Clubs) (2023.09 ~ )
 - UNITHON 10th (2023.09)
 - 제 1회 CUK혁신 아이디어 경진대회 (2023.11)
 
