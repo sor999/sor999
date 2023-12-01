@@ -1,3 +1,7 @@
+### Hi there, I'm Hyunje Park 👋
+- I develop servers using Spring.
+- I am a developer who has the tenacity and is not afraid of challenges.
+- I know the importance of communication, I want to become a developer who shares knowledge.
 
 
 
