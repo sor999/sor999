@@ -16,7 +16,8 @@
 - GDSC(Google Developer Student Clubs) (2023.09 ~ )
 - UNITHON 10th (2023.09)
 - 제 1회 CUK혁신 아이디어 경진대회 (2023.11)
-- AWS InfraStructure Camp (2023.11)
+- AWS Cloud Club InfraStructure Camp (2023.11)
+- AWS Cloud Club MLAPI Camp (2024.01)
 
 
 ## Stats
